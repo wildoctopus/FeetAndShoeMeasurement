@@ -1,5 +1,5 @@
 # FeetAndShoeMeasurement - Feet and Shoe size measurements without Deep Learning
-Feet Plus Shoe size Measurement without Deep Learning
+**Problem** : Determine the Feet and corresponding Shoe size of a person without Deep Learning, given a image clicked by the person itself. 
 
 ## How to Evaluate?
 * Clone the repo
