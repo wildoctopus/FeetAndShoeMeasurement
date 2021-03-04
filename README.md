@@ -32,6 +32,13 @@
   <img src="./images/sampleopt.png" width=70% height=70% >
 </p>
 
+## Shoe Size charts for Mens and Womens
+**Designed Solution gives feet size in CM's, that can be compared with below chart for Corresponding Shoe Size**
+<p align="center">
+  <img src="./images/ShoeSizeChart.png" width=70% height=70% >
+</p> 
+
+
 ## Limitations
 * If floor color is white, then it will difficult to segment the paper. 
 * Feet should not go out of the paper. Currently A4 size printer paper has ben chosen as reference. To fit all sizes, A1 paper can be taken as reference.
