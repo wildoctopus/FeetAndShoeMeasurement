@@ -28,11 +28,17 @@
 
 ## Sample outputs
 
+<p align="center">
+  <img src="./images/sampleopt.png" width=70% height=70% >
+</p>
 
 ## Limitations
 * If floor color is white, then it will difficult to segment the paper. 
 * Feet should not go out of the paper. Currently A4 size printer paper has ben chosen as reference. To fit all sizes, A1 paper can be taken as reference.
-* If there is no closed curv after edge detection, its difficult to find bounding box. Only closed curv is considered as a contour. And bounding box is generated on top of that. As it can be seen in the below image, bounding box is not generated on feet but only on the paper.  
+* If there is no closed curv after edge detection, its difficult to find bounding box. Only closed curv is considered as a contour. And bounding box is generated on top of that. As it can be seen in the below image, bounding box is not generated on feet but only on the paper.
+<p align="center">
+  <img src="./images/wrongcnt.png" width=70% height=70% >
+</p>  
 
 
 
