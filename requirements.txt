@@ -1,0 +1,5 @@
+imutils==0.5.4
+matplotlib==3.3.4
+opencv-python==4.5.1.48
+scikit-image==0.18.1
+sklearn==0.0
