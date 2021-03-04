@@ -52,7 +52,7 @@ def main():
     fdraw = drawCnt(fboundRect[2], fcnt, fcntpoly, fimg)
     cv2.imwrite('output/fdraw.jpg', fdraw)
 
-    print("feet size: ", calcFeetSize(pcropedImg, fboundRect))
+    print("feet size (cm): ", calcFeetSize(pcropedImg, fboundRect)/10)
 
 
 if __name__ == '__main__':
