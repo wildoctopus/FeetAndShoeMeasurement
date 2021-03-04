@@ -29,7 +29,7 @@
 ## Sample outputs
 
 <p align="center">
-  <img src="./images/sampleopt.png" width=70% height=70% >
+  <img src="./images/sampleopt.png">
 </p>
 
 ## Shoe Size charts for Mens and Womens
