@@ -35,7 +35,7 @@
 ## Shoe Size charts for Mens and Womens
 **Designed Solution gives feet size in CM's, that can be compared with below chart for Corresponding Shoe Size**
 <p align="center">
-  <img src="./images/ShoeSizeChart.png" width=70% height=70% >
+  <img src="./images/ShoeSizeChart.png">
 </p> 
 
 
